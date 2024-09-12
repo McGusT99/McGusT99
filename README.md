@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gustavo Pereira  😉
-Sou estudante de ADS Universidade Federal do Cariri
+Sou estudante de Analise e Desenvolvimento de Sistemas -  Universidade Federal do Cariri
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=McGusT99&show_icons=true&theme=dracula)
 
